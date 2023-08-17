@@ -1,8 +1,8 @@
 <div class="newsletter-popup mfp-hide">
     <div class="newsletter-content">
         <h4 class="text-uppercase font-weight-normal ls-25">Get Up to<span class="text-primary">25% Off</span></h4>
-        <h2 class="ls-25">Sign up to Wolmart</h2>
-        <p class="text-light ls-10">Subscribe to the Wolmart market newsletter to
+        <h2 class="ls-25">Sign up to Gamemate</h2>
+        <p class="text-light ls-10">Subscribe to the Gamemate market newsletter to
             receive updates on special offers.</p>
         <form action="#" method="get" class="input-wrapper input-wrapper-inline input-wrapper-round">
             <input type="email" class="form-control email font-size-md" name="email" id="email2"

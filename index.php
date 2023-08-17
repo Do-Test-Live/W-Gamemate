@@ -19,7 +19,7 @@
         <div class="header-top">
             <div class="container">
                 <div class="header-left">
-                    <p class="welcome-msg">Welcome to Wolmart Store message or remove it!</p>
+                    <p class="welcome-msg">Welcome to Gamemate Store message!</p>
                 </div>
                 <div class="header-right">
                     <div class="dropdown">
